@@ -4,6 +4,7 @@
 
 Its purpose is to allow content authors to set a delay before a next button appears to the learner.
 ## Installation
+adapt install adapt-timed
 ## Limitations
 
 No known limitations.   
