@@ -4,7 +4,7 @@ define([
     "core/js/models/componentModel"
 ], function(Adapt, ComponentView, ComponentModel){
 
-    var Blank = ComponentView.extend({
+    var Timed = ComponentView.extend({
     events: {
             'click .waitButton': 'viewNext'
         },
@@ -95,6 +95,6 @@ define([
         template: 'blank'
 
     });
-    Adapt.register('blank', Blank);
-    return Blank;
+    Adapt.register('timed', Timed);
+    return Timed;
 });
