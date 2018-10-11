@@ -92,7 +92,7 @@ define([
             ComponentView.prototype.remove.call(this);
 	    },
   
-        template: 'blank'
+        template: 'timed'
 
     });
     Adapt.register('timed', Timed);
