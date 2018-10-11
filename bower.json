@@ -1,6 +1,6 @@
 {
     "name": "adapt-timed",
-    "repository": "https://git-codecommit.us-west-2.amazonaws.com/v1/repos/beld-adapt",
+    "repository": "git://github.com/tcbeld/adapt-timed.git",
     "framework": "2.0.0",
     "version": "2.0.1",
     "homepage": "https://github.com/adaptlearning/adapt-contrib-blank",

@@ -1,8 +1,23 @@
-#todo add complete example
 {
-  "_id":"c-30",
-  "_parentId":"b-05",
-  "_type":"component",
-  "_component":"blank",
-  "_classes":"timer"
+	"_id": "c-5",
+	"_parentId": "b-5",
+	"_type": "component",
+	"_component": "timed",
+	"_classes": "",
+	"_layout": "full",
+	"title": "Introduction",
+	"displayTitle": "TIMER",
+	"body": "",
+	"instruction": "A continue button will appear after the specified amount of time below.",
+	"_waitTime": "20000",
+	"_gotoBlockID": ".b-1",
+	"_pageLevelProgress": {
+	"_isEnabled": true
+	},
+	"_graphic": {
+        "alt": "alt text",
+        "large": "course/en/images/hulk.png",
+        "small": "course/en/images/hulk.png",
+        "attribution":"Copyright © 2015"
+	}
 }
